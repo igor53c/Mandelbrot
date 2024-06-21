@@ -1,0 +1,13 @@
+{
+    "name": "complex-number-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "ComplexNumber.js",
+    "type": "module",
+    "scripts": {
+        "test": "node testComplexNumber.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
